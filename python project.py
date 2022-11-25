@@ -1,3 +1,6 @@
+print("Let's Play a Guessing Number Game ")
+print("you have to Guess The Number in 3 Chances  ")
+print("  ")
 import random
 a=int(input("enter the lower bound:-- "))
 b=int(input("enter the upper bound:-- "))
